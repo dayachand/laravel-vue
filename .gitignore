@@ -1,0 +1,10 @@
+/storage/*.key
+/vendor
+/node_modules
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/api-docs/
+/storage/debugbar/
+/.idea
+.env
+composer.lock
